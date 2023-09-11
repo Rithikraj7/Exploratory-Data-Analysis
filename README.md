@@ -24,8 +24,6 @@ The project is organized into the following directories and files:
 
 - `data/`: This directory contains the raw dataset file(s).
 - `notebooks/`: Jupyter Notebook(s) used for data analysis and visualization.
-- `scripts/`: Python scripts for data preprocessing or specific analysis tasks.
-- `results/`: Visualizations, charts, or any generated output from the analysis.
 - `README.md`: This documentation file.
 
 The source refrence for this project is from Medium and is available at the following URL:
